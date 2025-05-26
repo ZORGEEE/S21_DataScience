@@ -1,0 +1,37 @@
+2025-04-06 15:29:32 Initialized Research with file path: data.csv
+2025-04-06 15:29:32 Reading file data.csv with header: True
+2025-04-06 15:29:32 File not found: data.csv
+2025-04-06 15:29:51 Initialized Research with file path: data.csv
+2025-04-06 15:29:51 Reading file data.csv with header: True
+2025-04-06 15:29:51 Successfully read 11 observations from file
+2025-04-06 15:29:51 Initialized Calculations with 11 observations
+2025-04-06 15:29:51 Calculating counts of heads and tails
+2025-04-06 15:29:51 Counts: heads=5, tails=6
+2025-04-06 15:29:51 Calculating fractions of heads and tails
+2025-04-06 15:29:51 Fractions: heads=45.45%, tails=54.55%
+2025-04-06 15:29:51 Generating 3 random predictions
+2025-04-06 15:29:51 Generated predictions: [[0, 1], [1, 0], [0, 1]]
+2025-04-06 15:29:51 Data successfully saved to report.txt
+2025-04-06 15:30:05 Telegram notification sent: The report has been successfully created
+2025-04-06 15:30:30 Initialized Research with file path: data.csv
+2025-04-06 15:30:30 Reading file data.csv with header: True
+2025-04-06 15:30:30 Successfully read 11 observations from file
+2025-04-06 15:30:30 Initialized Calculations with 11 observations
+2025-04-06 15:30:30 Calculating counts of heads and tails
+2025-04-06 15:30:30 Counts: heads=5, tails=6
+2025-04-06 15:30:30 Calculating fractions of heads and tails
+2025-04-06 15:30:30 Fractions: heads=45.45%, tails=54.55%
+2025-04-06 15:30:30 Generating 3 random predictions
+2025-04-06 15:30:30 Generated predictions: [[1, 0], [0, 1], [0, 1]]
+2025-04-06 15:30:30 Data successfully saved to report.txt
+2025-04-06 15:30:30 Telegram notification sent: The report has been successfully created
+2025-04-06 15:33:38 Initialized Research with file path: data.csv
+2025-04-06 15:33:38 Reading file data.csv with header: True
+2025-04-06 15:33:38 File not found: data.csv
+2025-04-06 15:33:50 Initialized Research with file path: data.csv
+2025-04-06 15:33:50 Reading file data.csv with header: True
+2025-04-06 15:33:50 File not found: data.csv
+2025-04-06 15:44:47 Initialized Research with file path: data.csv
+2025-04-06 15:44:47 Reading file data.csv with header: True
+2025-04-06 15:44:47 File not found: data.csv
+2025-04-06 15:44:47 Telegram notification sent: The report hasn’t been created due to an error

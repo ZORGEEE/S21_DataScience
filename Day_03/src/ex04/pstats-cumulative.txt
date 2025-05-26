@@ -1,0 +1,13 @@
+         334069 function calls (333964 primitive calls) in 1.388 seconds
+
+   Ordered by: cumulative time
+   List reduced from 767 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    1.388    1.388 /Users/zorge/Developer/School21/Progress/DS_Bootcamp.Day03.ID_886513-1/src/ex04/financial.py:7(fetch_financials)
+        1    0.000    0.000    1.260    1.260 /Users/zorge/Developer/School21/Progress/DS_Bootcamp.Day03.ID_886513-1/src/ex00/posidons/lib/python3.13/site-packages/requests/api.py:62(get)
+        1    0.000    0.000    1.260    1.260 /Users/zorge/Developer/School21/Progress/DS_Bootcamp.Day03.ID_886513-1/src/ex00/posidons/lib/python3.13/site-packages/requests/api.py:14(request)
+        1    0.000    0.000    1.260    1.260 /Users/zorge/Developer/School21/Progress/DS_Bootcamp.Day03.ID_886513-1/src/ex00/posidons/lib/python3.13/site-packages/requests/sessions.py:500(request)
+      2/1    0.000    0.000    1.255    1.255 /Users/zorge/Developer/School21/Progress/DS_Bootcamp.Day03.ID_886513-1/src/ex00/posidons/lib/python3.13/site-packages/requests/sessions.py:673(send)
+
+
